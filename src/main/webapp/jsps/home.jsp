@@ -32,7 +32,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="1000">
+		<img src="images/1.jpg" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
