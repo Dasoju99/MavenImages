@@ -33,8 +33,6 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <div style="text-align: center;">
 	<span>
 		<img src="images/1.jpg" alt="" width="500">
-		<img src="images/2.jpg" alt="" width="500">
-		<img src="images/3.jpg" alt="" width="500">
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
